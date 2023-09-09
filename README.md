@@ -1,5 +1,6 @@
-# Curso de Pensamiento logico : lenguajes de programacion
+# Curso de Configuracion de Entorno de Desarrollo en Windows
 * Platzi 💚
-* Profe: Ana Belisa Martinez
-  
+* Profe: Celis
+
+
 
