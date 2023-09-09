@@ -6,8 +6,7 @@
 
 
 # Desafio de la clase 3
-* Pagina buscada : Da un clic aqui 👉🏻 para acceder a la pagina principal de UCundinamarca
-[UCundinamarca](https://www.ucundinamarca.edu.co/)
+* Pagina buscada : Da un clic aqui 👉🏻 para acceder a la pagina principal [UCundinamarca](https://www.ucundinamarca.edu.co/)
 * Use la extension de Lighthouse del navegador Google Chrome 
 <img align="center" width="400" src="https://user-images.githubusercontent.com/96964513/266752932-cdab3086-42df-44ba-8d80-1bee595e396b.png" />
 
