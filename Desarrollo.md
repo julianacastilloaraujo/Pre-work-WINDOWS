@@ -15,3 +15,4 @@
 * Stable (Version que se descarga automaticamente)
 * Dev (Caracteristicas nuevas para dev)
 * Canary (Version experimental)
+
