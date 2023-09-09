@@ -19,3 +19,11 @@
 * touch (tocar)
 * touch web.html (crear archivo)
 * code . (abrir archivos en VSCode)
+
+# Instalacion de Node
+* Desde la terminal ingresar los comandos:
+* sudo apt update
+* sudo apt install nodejs
+* sudo -v (conocer la version de nodejs)
+* sudo apt remove nodejs
+* sudo apt install npm (instalacion de paquetes en Node)
