@@ -1,2 +1,5 @@
-# Ethical-Hacking
-Webinar 1. Red Team y Blue Team | HackerMentor
+# Curso de Pensamiento logico : lenguajes de programacion
+* Platzi 💚
+* Profe: Ana Belisa Martinez
+  
+
